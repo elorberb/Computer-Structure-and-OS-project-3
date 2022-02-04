@@ -1,5 +1,5 @@
 # Computer-Structure-and-OS-project-3
-Implementing a multi-threaded version of text search in large text file.
+Implementing a multi-threaded version of text search in large text file with Python language.
 The program takes four parameters:
 1.textfile
 2.StringToSearch
